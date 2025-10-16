@@ -35,6 +35,7 @@ const adarsh = {
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/react-%23004886.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/react-%23004886.svg?style=for-the-badge&logo=react&logoColor=white" alt="Next.js"/>
 
 
   </p>
