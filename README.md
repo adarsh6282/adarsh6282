@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aswin</h1>
+<h1 align="center">Hi 👋, I'm Adarsh K P</h1>
 <h3 align="center">"The only way to do great work is to love what you do"</h3>
 
 <div align="center">
