@@ -1,89 +1,125 @@
+<h1 align="center">Hi 👋, I'm Aswin</h1>
+<h3 align="center">"The only way to do great work is to love what you do"</h3>
+
 <div align="center">
+   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</div>
 
-# 🌟 Welcome to Adarsh's Profile 🌟
+<br/>
 
-<p><em>I am passionate about building scalable web applications</em></p>
+### 💫 About Me:
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+```typescript
+interface Developer {
+    name: string;
+    role: string;
+    languages: string[];
+    challenge: string;
+}
+
+const aswin: Developer = {
+    name: "Adarsh K P",
+    role: "Full Stack Developer",
+    languages: ["JavaScript", "TypeScript", "Java", "C"],
+    challenge: "Building innovative applications with cutting-edge technologies"
+};
+```
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswa_manu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aswin-kp-b54198323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswamanu143@gmail.com) 
+
+### 🚀 Tech Stack Overview
+
+
+<hr/>
+<h3 >🖥️ Frontend</h3>
+<div >
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 </div>
 
-<hr>
 
-## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'adarsh6282' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/adarsh6282/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
 
-## 🏆 GitHub Trophies
+<hr/>
+<h3 >🔧 Backend</h3>
+<div >
 
-<!-- ⚠️ Important: Replace 'adarsh6282' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarsh6282&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'adarsh6282' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh6282&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </div>
 
-## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'adarsh6282' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh6282&layout=compact&langs_count=10&theme=radical"/>
-</div>
 
-## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'adarsh6282' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh6282&theme=radical&hide_border=false" />
-</div>
+<hr/>
+<h3 >📚 Frameworks & Libraries</h3>
+<div >
 
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500">
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 </div>
 
-## 🌐 Socials
 
-<div align="center">
 
-<a href="https://github.com/adarsh6282"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> 
+
+<hr/>
+<h3 >🛠️ Development Tools</h3>
+<div >
+
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+
+
+
+
+<hr/>
+<h3 >☁️ Cloud & Deployment</h3>
+<div >
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
-<div align="center">
 
-<!-- ⚠️ Important: Replace 'adarsh6282' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=adarsh6282&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
-<img src="https://img.shields.io/github/followers/adarsh6282?style=for-the-badge&color=ff69b4" alt="Followers"/>
 
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+<hr/>
+<h3 >🎨 Design & UI Tools</h3>
+<div >
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 </div>
+<hr/>
+
+[![](https://visitcount.itsvg.in/api?id=Aswazone&icon=0&color=9)](https://visitcount.itsvg.in)
