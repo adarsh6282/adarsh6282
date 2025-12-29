@@ -17,7 +17,7 @@ interface Developer {
     challenge: string;
 }
 
-const aswin: Developer = {
+const adarsh: Developer = {
     name: "Adarsh K P",
     role: "Full Stack Developer",
     languages: ["JavaScript", "TypeScript", "Java", "C"],
